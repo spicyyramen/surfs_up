@@ -6,7 +6,7 @@ Analysis of temperature data for June and December in Oahu to determine if W.Avy
 ## Results
 
 ![June Temperature Statistics](resources/juneStats.png)
-![December Temperature Statistics](resources/DecStats.png)
+![December Temperature Statistics](resources/decStats.png)
 
  1. The average temperatures for June and December are fairly close, with June's average at 75F and December's average at 71F.
 
